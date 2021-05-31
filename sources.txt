@@ -1,4 +1,4 @@
-https://github.com/jbaskeen/try.git 8dc82e537c74c228eebd27ed1600a969a1abbcb5
+https://github.com/jbaskeen/try.git 4d31b434024cba0a897d789f301c54f425ee8226
 foo bar
 baz
 https://github.com/app-sre/container-images.git c260deaf135fc0efaab365ea234a5b86b3ead404
